@@ -1,0 +1,6 @@
+use_frameworks!
+target 'AirportLibrary_Tests' do
+  pod 'AirportLibrary', :path => '../'
+  
+  
+end
